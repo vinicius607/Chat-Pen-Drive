@@ -10,6 +10,10 @@ O CriptoDrive é um chat por pen drive para uma troca segura de mensagens offlin
 * Historico de Mensagens
 
 ## Como Executar
+
+### 1. Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 * Python 3
 * Git
+
+### 2. Instalação e Execução
