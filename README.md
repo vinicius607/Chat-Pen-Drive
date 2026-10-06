@@ -36,7 +36,7 @@ Se você tem o Git instalado, basta abrir o terminal e executar os comandos abai
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/vinicius607/Chat-Pen-Drive.git
+git clone https://github.com/vinicius607/CryptDrive.git
 ```
 
 ```bash
