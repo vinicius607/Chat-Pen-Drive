@@ -34,13 +34,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### Opção 2: Via git
 Se você tem o Git instalado, basta abrir o terminal e executar os comandos abaixo linha por linha:
 
-```bash
 # 1. Clone o repositório
+```bash
 git clone https://github.com/vinicius607/CryptDrive.git
 ```
 
+# 2. Instale a biblioteca necessária
 ```bash
-# 3. Instale a biblioteca necessária
 pip install cryptography
 ```
 Depois de fazer isso, é só rodar o código.
