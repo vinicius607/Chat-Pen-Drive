@@ -1,7 +1,7 @@
 <img width="3410" height="1216" alt="Gemini_Generated_Image_usmwzqusmwzqusmw" src="https://github.com/user-attachments/assets/1289868a-ba01-457f-b93f-95d7ccfbdaa1" />
 
 # CryptDrive
-O CriptoDrive é um chat por pen drive para uma troca segura de mensagens offline através de dispositivos de armazenamento USB. O sistema guarda a mensagem encriptada num pen drive, que pode ser lida num computador diferente, desde que tenha a mesma chave secreta.
+O CryptDrive é um chat por pen drive para uma troca segura de mensagens offline através de dispositivos de armazenamento USB. O sistema guarda a mensagem encriptada num pen drive, que pode ser lida num computador diferente, desde que tenha a mesma chave secreta.
 
 ## Funcionalidades
 
