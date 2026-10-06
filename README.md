@@ -7,6 +7,7 @@ O CriptoDrive é um chat por pen drive para uma troca segura de mensagens offlin
 
 * Cadastro de novos usuários
 * Interface gráfica intuitiva
+* Criptografar mensagens
 * Historico de Mensagens
 
 ## Como Executar
