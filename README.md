@@ -42,18 +42,24 @@ Depois de fazer isso, é só rodar o código.
 
 ## Manual de Uso
 1. Cadastro e Login:
-  * Ao abrir o aplicativo, digite um nome de usuário (entre 3 e 20 caracteres) e uma senha (mínimo de 4 caracteres) e clique em "Cadastrar". Depois, para fazer login, informe também uma Chave secreta do chat. Atenção: essa chave secreta precisa ser exatamente a mesma nos dois computadores que vão trocar mensagens.
+ * Ao abrir o aplicativo, digite um nome de usuário (entre 3 e 20 caracteres) e uma senha (mínimo de 4 caracteres) e clique em "Cadastrar". Depois, para fazer login, informe também uma Chave secreta do chat. Atenção: essa chave secreta precisa ser exatamente a mesma nos dois computadores que vão trocar mensagens.
   
 2. Configuração do Pen Drive:
-  * No canto superior direito da tela principal, clique em "Escolher pen drive" e selecione a unidade ou pasta do seu dispositivo USB.
+ * No canto superior direito da tela principal, clique em "Escolher pen drive" e selecione a unidade ou pasta do seu dispositivo USB.
 
 3. Envio de Mensagens:
-  * Na aba Escrever, digite sua mensagem no editor de texto.
-  * Clique em "Gerar árvore". (Se a mensagem tiver até 1000 letras, você pode clicar em "Ver desenho da árvore" para conferir a estrutura gerada).
-  * Clique em "Criptografar árvore" para aplicar a criptografia.
-  * Clique em "Salvar no Pen Drive" para exportar o arquivo.
+ * Na aba Escrever, digite sua mensagem no editor de texto.
+ * Clique em "Gerar árvore". (Se a mensagem tiver até 1000 letras, você pode clicar em "Ver desenho da árvore" para conferir a estrutura gerada).
+ * Clique em "Criptografar árvore" para aplicar a criptografia.
+ * Clique em "Salvar no Pen Drive" para exportar o arquivo.
 
 4. Leitura de Mensagens:
-  * Conecte o pendrive com as mensagens recebidas.
-  * Na aba Ler, clique em "Ler do Pen Drive".
-  * O sistema buscará arquivos .enc gerados por outros usuários, descriptografará o conteúdo e exibirá no histórico.
+* Conecte o pendrive com as mensagens recebidas.
+* Na aba Ler, clique em "Ler do Pen Drive".
+* O sistema buscará arquivos .enc gerados por outros usuários, descriptografará o conteúdo e exibirá no histórico.
+
+## Autores
+* Vinicius Pimentel de Souza
+* Felipe Alves de Pinho Cruz
+* Gabriel luiz da silva custodio
+* Matheus Rodrigues da Silva Neves
