@@ -5,10 +5,14 @@ O CryptDrive é um chat por pen drive para uma troca segura de mensagens offline
 
 ## Funcionalidades
 
-* Cadastro de novos usuários
-* Interface gráfica intuitiva
+* Cadastro e autenticação de usários
+* Interface gráfica para interação com o sistema
+* Geração de estutura em árvore para mensagens
 * Criptografar mensagens
-* Historico de Mensagens
+* Descriptografia de mensagens recebinas
+* Armazenamento das mensagens em dispositivo USB
+* Histórico de Mensagens
+* Comunicação offline entre computadores
 
 ## Como Executar
 
